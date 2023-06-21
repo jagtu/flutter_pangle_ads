@@ -22,4 +22,7 @@ public class AdEventAction {
     public static final String onAdComplete = "onAdComplete";
     // 获得广告激励
     public static final String onAdReward = "onAdReward";
+
+    // 下载完成
+    public static final String onDownloadFinished = "onDownloadFinished";
 }

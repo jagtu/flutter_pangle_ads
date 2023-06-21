@@ -3,13 +3,6 @@
 </p>
 <h3 align="center">一款优质的 Flutter 广告插件（字节跳动、巨量引擎、穿山甲）</h3>
 
-<p align="center">
-<a href="https://pub.dev/packages/flutter_pangle_ads"><img src=https://img.shields.io/badge/pub-v2.7.0-success></a>
-<a href="https://github.com/FlutterAds/flutter_pangle_ads"><img src=https://img.shields.io/badge/platform-iOS%20%7C%20Android-brightgreen></a>
-<a href="https://github.com/FlutterAds/flutter_pangle_ads/actions/workflows/flutter.yml"><img src="https://github.com/FlutterAds/flutter_pangle_ads/actions/workflows/flutter.yml/badge.svg"></a>
-<a href="https://github.com/FlutterAds/flutter_pangle_ads"><img src=https://img.shields.io/github/stars/FlutterAds/flutter_pangle_ads?color=brightgreen></a>
-<a href="https://github.com/FlutterAds/flutter_pangle_ads/blob/develop/LICENSE"><img src=https://img.shields.io/badge/license-MIT-brightgreen></a>
-</p>
 
 ## 插件特点
 - 🔨 接入简单快速（封装原生端配置，仅需引入即可开始）
@@ -29,10 +22,6 @@
 - ✅ 信息流
 - ✅ 全屏视频（已废弃）
 - 🔲 Draw 贴片视频
-
-## 下载体验
-<a href="https://www.pgyer.com/app/qrcode/fads"><img src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/gzh/gzh_qrcode.jpeg" width='100' height='100'></a>
-> 回复 `穿山甲体验` 
 
 ## 入门使用
 
